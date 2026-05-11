@@ -1,0 +1,1 @@
+# EFI-A515-52G-Hackintosh-SEQUOIA-15.7.5
